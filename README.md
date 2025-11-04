@@ -52,7 +52,7 @@ At present, we officially aim to support the last two versions of the following 
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-ntpp)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-ntpp)
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/nextjs-tailwind-portfolio-page/issues)
-- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
+
 
 ## Reporting Issues
 
